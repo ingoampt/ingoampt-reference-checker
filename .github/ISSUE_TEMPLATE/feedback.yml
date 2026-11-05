@@ -1,0 +1,30 @@
+name: Product feedback
+description: Suggest an improvement to the INGOAMPT Reference Checker experience.
+title: "[Feedback] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for trying INGOAMPT Reference Checker. Feedback here is public.
+        For account or connection help, email email@ingoampt.com.
+        Please leave unpublished citations, private screenshots, account details, and credentials out of this form.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part would you improve?
+      options:
+        - Understanding what the checker does
+        - Connecting it to ChatGPT
+        - Understanding the results and sources
+        - Availability and service limits
+        - Another part of the experience
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would make it more useful?
+      description: Describe the experience or improvement without including your private bibliography.
+    validations:
+      required: true

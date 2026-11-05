@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">INGOAMPT Reference Checker</title>
+  <desc id="desc">An MCP integration for checking academic references inside ChatGPT. Publication records, field errors, and sources you can verify. Early access.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".55"><stop stop-color="#102037"/><stop offset="1" stop-color="#254967"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#e5f0ff" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="52" y="50" width="4" height="209" rx="2" fill="#e5a819"/>
+  <text x="80" y="76" fill="#ffda83" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">INGOAMPT</text>
+  <text x="77" y="154" fill="#fff" font-family="Georgia, serif" font-size="64" font-weight="700">Reference Checker</text>
+  <text x="80" y="201" fill="#e0e9f6" font-family="Arial, sans-serif" font-size="22">Publication records. Field errors. Sources you can verify.</text>
+  <rect x="80" y="235" width="72" height="35" rx="7" fill="#ffda83"/>
+  <text x="116" y="259" text-anchor="middle" fill="#13233b" font-family="Arial, sans-serif" font-size="16" font-weight="700">MCP</text>
+  <rect x="164" y="235" width="122" height="35" rx="7" fill="none" stroke="#9db7d1"/>
+  <text x="225" y="259" text-anchor="middle" fill="#f2f6ff" font-family="Arial, sans-serif" font-size="16">ChatGPT</text>
+  <rect x="298" y="235" width="164" height="35" rx="7" fill="none" stroke="#9db7d1"/>
+  <text x="380" y="259" text-anchor="middle" fill="#f2f6ff" font-family="Arial, sans-serif" font-size="16">Early access</text>
+  <text x="80" y="316" fill="#bdcfe2" font-family="Arial, sans-serif" font-size="16">Built by Pegah Tafvizi · ingoampt.com</text>
+  <g transform="translate(1028 146)">
+    <circle r="71" fill="#d4f2fa" stroke="#4ec6e4" stroke-width="14"/>
+    <path d="m52 52 56 56" stroke="#4ec6e4" stroke-width="19" stroke-linecap="round"/>
+    <path d="m-27 1 20 20L31-21" fill="none" stroke="#126654" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup, demo, and live availability
+    url: https://ingoampt.com/mcp-made-by-ingoampt/
+    about: Follow the illustrated ChatGPT connection guide and try the public demo.
+  - name: Private support and data questions
+    url: mailto:email@ingoampt.com
+    about: Contact INGOAMPT privately for account, connection, or data questions.
