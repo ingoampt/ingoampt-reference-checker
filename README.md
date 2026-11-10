@@ -10,6 +10,8 @@ Built by **Pegah Tafvizi · INGOAMPT**.
 
 **[Website & walkthrough](https://ingoampt.com/mcp-made-by-ingoampt/)** · **[Set up in ChatGPT](https://ingoampt.com/mcp-made-by-ingoampt/#mcs-setup)** · **[Live availability](https://ingoampt.com/mcp-made-by-ingoampt/#mcs-availability)** · **[Try the demo](https://ingoampt.com/mcp-made-by-ingoampt/#mcs-demo)**
 
+**[See the idea in four pictures](docs/visual-guide/README.md)** · **[Open the four-page visual PDF](docs/visual-guide/INGOAMPT-Reference-Checker-Visual-Guide.pdf)**
+
 ## Why this exists
 
 A reference can look convincing and still contain a wrong author, title, year, venue, or page range. AI-generated citations can also describe papers that cannot be verified. Finding a plausible title alone is not enough to check a bibliography.
